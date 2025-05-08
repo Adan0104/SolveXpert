@@ -17,7 +17,7 @@
 
 ### How To Run?
 
-**⚠️ Note:** This project hasn't been tested with a ```python-dotenv``` file. To use the AI features, you need a Gemini API key. You can create a key with one click in [Google AI Studio](https://makersuite.google.com/app/apikey). Replace ```YOUR_API_KEY``` in ```app.py``` with your own API Key.
+**⚠️ Note:** This project hasn't been tested with a ```python-dotenv``` file. To use the AI features, you need a Gemini API key. You can create a key with one click in [Google AI Studio](https://makersuite.google.com/app/apikey). Create a .env file and define a variable GOOGLE_API_KEY and replace its value with your own API Key.
 
 Ensure you have the latest version of [Python](https://www.python.org/downloads/) installed on your system. Quickly clone the repository and change the working directory.
 
