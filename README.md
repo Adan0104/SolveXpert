@@ -22,8 +22,8 @@
 Ensure you have the latest version of [Python](https://www.python.org/downloads/) installed on your system. Quickly clone the repository and change the working directory.
 
 ```bash
-git clone https://github.com/Vaishnavigupta1312/SolveXpert.git
-cd SolveXpert
+git clone https://github.com/Adan0104/solvexpert-2.git
+cd solvexpert-2
 ```
 
 We have to install all the dependencies of the project. Optionally, you can create a Python virtual environment. Run the following commands in your terminal:
